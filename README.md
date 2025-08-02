@@ -4,7 +4,7 @@ https://www.thenegation.com/posts/nixos-do-colmena/
 To build, do this:
 
 ```sh
-nix-build ./do-image.nix
+nix-build ./do_image.nix
 ```
 
 Output is in `result/`.
